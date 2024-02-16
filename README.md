@@ -7,8 +7,11 @@
 
 <h2> 💻Tecnologias utilizadas:</h2>
 <p>- HTML</p>
-<P>-CSS</P>
+<p>-CSS</p>
 
-<img src="https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/desktop.png?raw=true" width="200">
+<p float="left">
 
-<img src="https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/mobile.png?raw=true" width="200">
+<img src="https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/desktop.png?raw=true" width="400">
+
+<img src="https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/mobile.png?raw=true" width="100" height="200">
+</p>
