@@ -9,6 +9,6 @@
 <p>- HTML</p>
 <P>-CSS</P>
 
-<img src="https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/desktop.png?raw=true">
+<img src="[https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/desktop.png?raw=true](https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/mobile.png?raw=true)">
 <img src="[https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/mobile.png?raw=true](https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/mobile.png?raw=true)https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/mobile.png?raw=true">
 
